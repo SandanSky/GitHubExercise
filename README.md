@@ -4,3 +4,4 @@ Git Hub Exercise
 Conflict resolved!
 Comment made on master local  
 New comment from branch develop  
+Change from github site
